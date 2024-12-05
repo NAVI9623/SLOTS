@@ -1,2 +1,3 @@
-# SLOTS
-S04A02 
+# Proyecto Coffee-Plans
+
+Proyecto educativo para el aprendizaje de VueJs.
